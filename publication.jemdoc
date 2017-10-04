@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{publication.html}
+= Chang Li -- Publications
+
+- /*Chang Li*/, Huanhuan Chen. “Sparse Bayesian approach for feature selection,” 
+IEEE Symposium on Computational Intelligence in Big Data (CIBD), IEEE Symposium Series on Computational Intelligence (SSCI), 2014. 
+([http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7011521 PDF], [./paper/ssci-talk.pdf Slides], [http://staff.ustc.edu.cn/~hchen/code/pcvm.zip Code])
+
+- /*Chang Li*/, Huanhuan Chen and Xin Yao. "Probabilistic feature selection and classification vector machine."  (*Submitted*)
+
+- Bingbing Jiang, Huanhuan Chen, He Shan and /*Chang Li*/. "Efficient Bayesian Semi-Supervised Learning." (*Submitted*) 
+
+
+= Presentation
+- "Sparse Bayesian Learning," Anhui Conference on Artificial Intelligence, Hefei, Anhui, July, 2014. ([http://home.ustc.edu.cn/~changli/paper/ACAI_slides.pdf Slides])
+
+
