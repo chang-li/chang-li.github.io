@@ -2,8 +2,10 @@
 = 李昌(Chang Li)
 
 ~~~
-{blanks}{img_left}{./figure/lc.JPG}{Li}{162px}{225px}{./figure/lc.JPG}
-Cheers! I'm a second year PhD student in [http://ilps.science.uva.nl ILPS], [http://http://www.uva.nl/en/home University of Amsterdam, UvA], supervised by [https://staff.fnwi.uva.nl/m.derijke/ Prof. Dr. Maarten de Rijke]. Before joining in ILPS, I received my bachelor degree from [http://www.tju.edu.cn/english/ TJU] supervised by [http://www.tjucs.win/faculty/wangxin/index-en.html Dr. Xin Wang], in 2009 and my master degree from [http://en.ustc.edu.cn/ USTC], supervised by [http://staff.ustc.edu.cn/~hchen Prof. Dr. Huanhuan Chen] in 2013. 
+{blanks}{img_left}{./figure/lc.jpg}{Li}{100px}{178px}{./figure/lc.jpg}
+Cheers! I'm a second year PhD student in [http://ilps.science.uva.nl ILPS], [http://http://www.uva.nl/en/home University of Amsterdam, UvA], supervised by [https://staff.fnwi.uva.nl/m.derijke/ Prof. Dr. Maarten de Rijke]. Before joining in ILPS, 
+I received my bachelor degree from [http://www.tju.edu.cn/english/ TJU] in 2009. My mentor was [http://www.tjucs.win/faculty/wangxin/index-en.html Dr. Xin Wang]. 
+Then I received my master degree from [http://en.ustc.edu.cn/ USTC], supervised by [http://staff.ustc.edu.cn/~hchen Prof. Dr. Huanhuan Chen] in 2013. 
 My research interests are information retrieval, machine learning and bandits. Meanwhile I'm open to new challenges at all time. 
 
 /*Email*/: c.li AT uva DOT nl
@@ -11,11 +13,13 @@ My research interests are information retrieval, machine learning and bandits. M
 
 = Publications and Preprints
 
-- /*Chang Li*/, Ilya Markov, Masrour Zoghi and Maarten de Rijke. "Merge Double Thompson Sampling". (/*Under submission*/)
+- Branislav Kveton, /*Chang Li*/, Tor Lattimore, Ilya Markov, Maarten de Rijke, Csaba Szepesvari and Masrour Zoghi. "BubbleRank: Safe Online Learning to Rerank". ([https://arxiv.org/abs/1806.05819 Preprints])
 
-- /*Chang Li*/ and Maarten de Rijke. "Incremental Sparse Bayesian Ordinal Regression". (/*Under submission*/)
+- /*Chang Li*/, Ilya Markov, Maarten de Rijke and Masrour Zoghi. "Merge Double Thompson Sampling". (/Submitted/)
 
-- Bingbing Jiang, /*Chang Li*/, Huanhuan Chen, Xin Yao and Maarten de Rijke. "Probabilistic feature selection and classification vector machine.", arXiv:1609.05486, 2016. ([https://arxiv.org/abs/1609.05486 PDF])
+- /*Chang Li*/ and Maarten de Rijke. "Incremental Sparse Bayesian Ordinal Regression". ([https://arxiv.org/ Preprints], [https://github.com/chang-li/SBOR Code])
+
+- Bingbing Jiang, /*Chang Li*/, Maarten de Rijke, Xin Yao and Huanhuan Chen. "Probabilistic feature selection and classification vector machine". ([https://arxiv.org/abs/1609.05486 Preprints])
 
 - /*Chang Li*/ and Huanhuan Chen. “Sparse Bayesian approach for feature selection,” 
 IEEE Symposium on Computational Intelligence in Big Data (CIBD), IEEE Symposium Series on Computational Intelligence (SSCI), 2014. 
