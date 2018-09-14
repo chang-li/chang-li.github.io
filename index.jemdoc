@@ -15,7 +15,9 @@ My research interests are information retrieval, machine learning and bandits. M
 
 - Branislav Kveton, /*Chang Li*/, Tor Lattimore, Ilya Markov, Maarten de Rijke, Csaba Szepesvari and Masrour Zoghi. "BubbleRank: Safe Online Learning to Rerank". ([https://arxiv.org/abs/1806.05819 Preprints])
 
-- /*Chang Li*/, Ilya Markov, Maarten de Rijke and Masrour Zoghi. "Merge Double Thompson Sampling". (/Submitted/)
+- /*Chang Li*/, Artem Grotov, Bryan Eikema, Ilya Markov, and Maarten de Rijke. Online learning to rank with list-level feedback for image filtering. Under reviewing, 2018.
+
+- /*Chang Li*/, Ilya Markov, Maarten de Rijke and Masrour Zoghi. "MergeDTS: A Method for Effective Large-Scale Online Ranker Evaluation". Under reviewing, 2018.
 
 - /*Chang Li*/ and Maarten de Rijke. "Incremental Sparse Bayesian Ordinal Regression", Neural Networks, Volume 106, October 2018, Pages 294-302. ([https://www.sciencedirect.com/science/article/pii/S0893608018302144, Link], [./paper/ISBOR-NN.pdf PDF], [https://github.com/chang-li/SBOR Code])
 
