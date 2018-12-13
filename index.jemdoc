@@ -3,10 +3,11 @@
 
 ~~~
 {blanks}{img_left}{./figure/lc.JPG}{Li}{100px}{178px}{./figure/lc.JPG}
-Cheers! I'm a second year PhD student in [http://ilps.science.uva.nl ILPS], [http://http://www.uva.nl/en/home University of Amsterdam, UvA], supervised by [https://staff.fnwi.uva.nl/m.derijke/ Prof. Dr. Maarten de Rijke]. Before joining in ILPS, 
-I received my bachelor degree from [http://www.tju.edu.cn/english/ TJU] in 2013. My mentor was [http://www.tjucs.win/faculty/wangxin/index-en.html Dr. Xin Wang]. 
+Cheers! I'm a third year PhD student in [http://ilps.science.uva.nl ILPS], [http://http://www.uva.nl/en/home University of Amsterdam, UvA], supervised by [https://staff.fnwi.uva.nl/m.derijke/ Prof. Dr. Maarten de Rijke]. 
+I focus on online learning to rank, particularly on Multi-Armed Bandits. 
+Before joining in ILPS, I received my bachelor degree from [http://www.tju.edu.cn/english/ TJU] in 2013. My mentor was [http://www.tjucs.win/faculty/wangxin/index-en.html Dr. Xin Wang]. 
 Then I received my master degree from [http://en.ustc.edu.cn/ USTC], supervised by [http://staff.ustc.edu.cn/~hchen Prof. Dr. Huanhuan Chen] in 2016. 
-My research interests are information retrieval, machine learning and bandits. Meanwhile I'm open to new challenges at all time. 
+You may find more about me in my [./ChangLi_CV.pdf CV].
 
 /*Email*/: c.li AT uva DOT nl
 ~~~
@@ -15,9 +16,9 @@ My research interests are information retrieval, machine learning and bandits. M
 
 - /*Chang Li*/, Branislav Kveton, Tor Lattimore, Ilya Markov, Maarten de Rijke, Csaba Szepesvari and Masrour Zoghi. "BubbleRank: Safe Online Learning to Rerank". ([https://arxiv.org/abs/1806.05819 Preprints])
 
-- /*Chang Li*/, Artem Grotov, Bryan Eikema, Ilya Markov, and Maarten de Rijke. Online learning to rank with list-level feedback for image filtering. Under reviewing, 2018.
+- /*Chang Li*/, Artem Grotov, Bryan Eikema, Ilya Markov, and Maarten de Rijke. Online learning to rank with list-level feedback for image filtering. ([https://arxiv.org/abs/1812.04910 Preprints])
 
-- /*Chang Li*/, Ilya Markov, Maarten de Rijke and Masrour Zoghi. "MergeDTS: A Method for Effective Large-Scale Online Ranker Evaluation". Under reviewing, 2018.
+- /*Chang Li*/, Ilya Markov, Maarten de Rijke and Masrour Zoghi. "MergeDTS: A Method for Effective Large-Scale Online Ranker Evaluation". ([https://arxiv.org/abs/1812.04412 Preprints])
 
 - /*Chang Li*/ and Maarten de Rijke. "Incremental Sparse Bayesian Ordinal Regression", Neural Networks, Volume 106, October 2018, Pages 294-302. ([https://www.sciencedirect.com/science/article/pii/S0893608018302144, Link], [./paper/ISBOR-NN.pdf PDF], [https://github.com/chang-li/SBOR Code])
 
