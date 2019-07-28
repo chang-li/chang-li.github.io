@@ -14,10 +14,10 @@ You may find more about me in my [./ChangLi_CV.pdf CV].
 
 = Publications and Preprints
 
-- /*Chang Li*/ and Maarten de Rijke. "Cascading Non-Stationary Bandits: Online Learning to Rank in the Non-Stationary Cascade Model". Accepted by IJCAI-2019. ([To be appear])
+- /*Chang Li*/ and Maarten de Rijke. "Cascading Non-Stationary Bandits: Online Learning to Rank in the Non-Stationary Cascade Model". In IJCAI 2019: Twenty-Eighth International Joint Conference on Artificial Intelligence, August 2019. ([https://arxiv.org/abs/1905.12370 Preprints])
 
 
-- /*Chang Li*/, Branislav Kveton, Tor Lattimore, Ilya Markov, Maarten de Rijke, Csaba Szepesvari, and Masrour Zoghi. "BubbleRank: Safe Online Learning to Rerank". ([https://arxiv.org/abs/1806.05819 Preprints])
+- /*Chang Li*/, Branislav Kveton, Tor Lattimore, Ilya Markov, Maarten de Rijke, Csaba Szepesvari, and Masrour Zoghi. "BubbleRank: Safe Online Learning to Rerank". In UAI 2019: Conference on Uncertainty in Artificial Intelligence, July 2019.([https://arxiv.org/abs/1806.05819 Preprints], [poster/2019UAI-Li-BubbleRank.pdf Poster], [https://github.com/chang-li/bubblerank Code])
 
 - /*Chang Li*/, Artem Grotov, Ilya Markov, and Maarten de Rijke. Online learning to rank with list-level feedback for image filtering. ([https://arxiv.org/abs/1812.04910 Preprints])
 
