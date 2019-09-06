@@ -3,9 +3,9 @@
 
 ~~~
 {blanks}{img_left}{./figure/lc.JPG}{Li}{100px}{178px}{./figure/lc.JPG}
-Cheers! I'm a third year PhD student in [http://ilps.science.uva.nl ILPS], [http://http://www.uva.nl/en/home University of Amsterdam, UvA], supervised by [https://staff.fnwi.uva.nl/m.derijke/ Prof. Dr. Maarten de Rijke]. 
+Cheers! I'm a third year PhD student at [http://ilps.science.uva.nl ILPS], [http://http://www.uva.nl/en/home University of Amsterdam, UvA], supervised by [https://staff.fnwi.uva.nl/m.derijke/ Prof. Dr. Maarten de Rijke]. 
 I focus on online learning to rank, particularly on Multi-Armed Bandits. 
-Before joining in ILPS, I received my bachelor degree from [http://www.tju.edu.cn/english/ TJU] in 2013. My mentor was [http://www.tjucs.win/faculty/wangxin/index-en.html Dr. Xin Wang]. 
+Before joining ILPS, I received my bachelor degree from [http://www.tju.edu.cn/english/ TJU] in 2013. My mentor was [http://www.tjucs.win/faculty/wangxin/index-en.html Dr. Xin Wang]. 
 Then I received my master degree from [http://en.ustc.edu.cn/ USTC], supervised by [http://staff.ustc.edu.cn/~hchen Prof. Dr. Huanhuan Chen] in 2016. 
 You may find more about me in my [./ChangLi_CV.pdf CV].
 
@@ -17,7 +17,7 @@ You may find more about me in my [./ChangLi_CV.pdf CV].
 - /*Chang Li*/ and Maarten de Rijke. "Cascading Non-Stationary Bandits: Online Learning to Rank in the Non-Stationary Cascade Model". In IJCAI 2019: Twenty-Eighth International Joint Conference on Artificial Intelligence, August 2019. ([https://arxiv.org/abs/1905.12370 Preprints])
 
 
-- /*Chang Li*/, Branislav Kveton, Tor Lattimore, Ilya Markov, Maarten de Rijke, Csaba Szepesvari, and Masrour Zoghi. "BubbleRank: Safe Online Learning to Rerank". In UAI 2019: Conference on Uncertainty in Artificial Intelligence, July 2019.([https://arxiv.org/abs/1806.05819 Preprints], [poster/2019UAI-Li-BubbleRank.pdf Poster], [https://github.com/chang-li/bubblerank Code])
+- /*Chang Li*/, Branislav Kveton, Tor Lattimore, Ilya Markov, Maarten de Rijke, Csaba Szepesvari, and Masrour Zoghi. "BubbleRank: Safe Online Learning to Re-Rank via Implicit Click Feedback". In UAI 2019: Conference on Uncertainty in Artificial Intelligence, July 2019.([https://arxiv.org/abs/1806.05819 Preprints], [poster/2019UAI-Li-BubbleRank.pdf Poster], [https://github.com/chang-li/bubblerank Code])
 
 - /*Chang Li*/, Artem Grotov, Ilya Markov, and Maarten de Rijke. Online learning to rank with list-level feedback for image filtering. ([https://arxiv.org/abs/1812.04910 Preprints])
 
