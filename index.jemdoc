@@ -27,7 +27,7 @@ IEEE Symposium on Computational Intelligence in Big Data (CIBD), IEEE Symposium 
 
 = Journal
 
-- /*Chang Li*/, Ilya Markov, Maarten de Rijke, and Masrour Zoghi. "MergeDTS: A Method for Effective Large-Scale Online Ranker Evaluation", ACM Transactions on Information Systems (TOIS). 38(4), December 2020. ([https://arxiv.org/abs/1812.04412 Preprints], [https://github.com/chang-li/MergeDTS Code])
+- /*Chang Li*/, Ilya Markov, Maarten de Rijke, and Masrour Zoghi. "MergeDTS: A Method for Effective Large-Scale Online Ranker Evaluation", ACM Transactions on Information Systems (TOIS), 38(4), December 2020. ([https://arxiv.org/abs/1812.04412 Preprints], [https://github.com/chang-li/MergeDTS Code])
 - Bingbing Jiang, /*Chang Li*/, Maarten de Rijke, Xin Yao, and Huanhuan Chen. "Probabilistic feature selection and classification vector machine", ACM Transactions on Knowledge Discovery from Data (TKDD), 13(2): Article 21, April 2019.([https://dl.acm.org/citation.cfm?id=3309541 Link], [https://arxiv.org/abs/1609.05486 Preprints])
 - /*Chang Li*/ and Maarten de Rijke. "Incremental Sparse Bayesian Ordinal Regression", Neural Networks, Volume 106, October 2018, Pages 294-302. ([https://www.sciencedirect.com/science/article/pii/S0893608018302144 Link], [./paper/2018-ISBOR-NN.pdf PDF], [https://github.com/chang-li/SBOR Code])
 
